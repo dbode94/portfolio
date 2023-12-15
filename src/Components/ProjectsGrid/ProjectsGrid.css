@@ -1,0 +1,13 @@
+.projectsContainer{
+    /* background: linear-gradient(135deg, black, teal); */
+    color: white; 
+    display: grid;
+    justify-items: center;
+    height: auto;
+    padding-top: 50px;
+}
+
+.projectGridTitle{
+    margin-left: 10%;
+    text-decoration: underline;
+}

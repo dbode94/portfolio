@@ -1,0 +1,38 @@
+.rowGridContainer{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(240px,1fr));
+    justify-items: center;
+    box-shadow: 5px 10px 20px black;
+    width: 70%;
+    border-radius: 7px;
+    margin-bottom: 20px;
+    background: linear-gradient(135deg, black, teal);
+    border: none;
+}
+
+.rowGridContainer:hover{
+    box-shadow: 5px 10px 30px black;
+}
+
+.descriptionContainer{
+    padding-top: 50px;
+    padding-right: 10%;
+    padding-left: 10%;
+}
+
+.projectImages{
+    width: 200px;
+    height: auto;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+
+
+.projectsTitles{
+    /* color:teal; */
+    text-decoration: underline;
+    margin-bottom: 20%;
+}
+

@@ -1,0 +1,27 @@
+.header{
+    /* background: linear-gradient(135deg, black, teal); */
+    height: 480px;    
+}
+
+.headerDiv{
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    z-index: 1;
+}
+
+.headerH1{
+    color: teal;
+    position: relative;
+}
+
+.headerText{
+    margin-top: 0;
+}
+
+.whiteText{
+    color: whitesmoke;
+}
+
+
+
