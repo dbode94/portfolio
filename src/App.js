@@ -1,6 +1,6 @@
 import './App.css'
 import CustomHeader from './Components/CustomHeader/CustomHeader'
-import Bio from './Components/Bio/Bio';
+import Bio from './Components/Bio/Bio.component';
 import ProjectsGrid from './Components/ProjectsGrid/ProjectsGrid';
 
 
@@ -23,18 +23,12 @@ export default App;
 /*
 PLANING:
 -Low in dependencies
--clean code
--documented
-
--> header{
-  href to parts of the website ---------------------------PENDING
-} 
 
 -> Small Bio{
   Courses,
   Schools
   reason 
-  Techs mastered, level of expertise(% or clasification)
+  Techs mastered - instead of name, use the logos, maybe add some animation while hovering (having the logo in black and white and when hover change to color), and some functionality.
 }
 
 -> projects{ 
@@ -45,4 +39,7 @@ PLANING:
   link to source code in github.
 contact photo
 }
+
+-> host the app in gitHub pages using react-gh-pages
+
 */

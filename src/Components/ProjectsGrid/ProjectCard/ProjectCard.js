@@ -1,7 +1,7 @@
 import './ProjectCard.css'
 
 const ProjectCard = ({projectPic, projectName, projectDescription, techsUsed}) =>{
-    const techsLiArray = techsUsed.map((tech) => {return (<li>{tech}</li>)})
+    const techsLiArray = techsUsed.map((tech, index) => {return (<li key={index}>{tech}</li>)})
     return(    
         <div className='rowGridContainer'>
             <div>

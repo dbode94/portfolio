@@ -1,5 +1,5 @@
 import './ProjectsGrid.css'
-import projectPic from './ProjectsPhoto/projectPic.jpg'
+import projectPic from '../../assets/projectPic.jpg'
 import ProjectCard from './ProjectCard/ProjectCard.js';
 
 const ProjectsGrid = () =>{

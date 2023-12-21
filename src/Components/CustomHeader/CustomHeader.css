@@ -3,6 +3,10 @@
     height: 480px;    
 }
 
+.particles{
+    height:100%;
+}
+
 .headerDiv{
     position: absolute;
     top: 10%;
