@@ -1,6 +1,8 @@
+
 .header{
     /* background: linear-gradient(135deg, black, teal); */
-    height: 480px;    
+    height: 480px;
+    background: linear-gradient(135deg, black, black, rgb(0, 99, 99));
 }
 
 .particles{

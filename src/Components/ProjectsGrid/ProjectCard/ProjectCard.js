@@ -1,4 +1,4 @@
-import './ProjectCard.css'
+import './ProjectCard.scss'
 
 const ProjectCard = ({projectPic, projectName, projectDescription, techsUsed}) =>{
     const techsLiArray = techsUsed.map((tech, index) => {return (<li key={index}>{tech}</li>)})
