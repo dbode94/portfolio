@@ -18,7 +18,7 @@
         &:focus .descriptionContainer{
             bottom: 0;
             box-shadow: 0px 0px 40px whitesmoke;
-            background: radial-gradient(circle, whitesmoke 0%, rgba(106,255,240,1) 35%, rgba(251,251,251,1) 100%);
+            background: radial-gradient(circle, rgb(2, 179, 179) 25%,  rgb(136, 210, 210) , whitesmoke 100%);
         }
     }
 
@@ -34,7 +34,7 @@
 
         &:hover{
             box-shadow: 0px 0px 40px whitesmoke;
-            background: radial-gradient(circle, whitesmoke 0%, rgba(106,255,240,1) 35%, rgba(251,251,251,1) 100%);
+            background: radial-gradient(circle, rgb(2, 179, 179) 25%,  rgb(136, 210, 210) , whitesmoke 100%);
         }
     }
 
