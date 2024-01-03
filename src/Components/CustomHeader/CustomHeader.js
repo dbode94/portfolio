@@ -8,7 +8,7 @@ const particlesOptions={
     interactivity: {
     events: {
         onClick: {
-        enable: true,
+        enable: false,
         mode: "push",
         },
         resize: true,
@@ -21,7 +21,7 @@ const particlesOptions={
         size: 40,
         },
         push: {
-        quantity: 4,
+        quantity: 20,
         },
         repulse: {
         distance: 200,

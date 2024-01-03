@@ -12,6 +12,7 @@ import {ReactComponent as MongoDB} from '../../../assets/mongodb-svgrepo-com.svg
 import {ReactComponent as FireBase} from '../../../assets/firebase-svgrepo-com.svg';
 import {ReactComponent as Postman} from '../../../assets/postman-icon-svgrepo-com.svg';
 import {ReactComponent as Sql} from '../../../assets/sql-database-generic.svg';
+import {ReactComponent as Redux} from '../../../assets/redux-logo-svgrepo-com.svg'
 
 
 
@@ -29,6 +30,7 @@ export const LENGUAGES_MASTERED = [
     Sass,
     JavaScript,
     ReactJS,
+    Redux,
     Express,
     Sql,
     CSharp

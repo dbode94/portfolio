@@ -1,9 +1,14 @@
 import './ProjectCard.scss'
 
 const ProjectCard = ({projectPic, projectName, projectDescription, techsUsed}) =>{
+
+    const handleClick = (event) => {
+        event.target.classList.toggle('focused');
+    }
+
     const techsLiArray = techsUsed.map((tech, index) => {return (<li key={index}>{tech}</li>)})
     return(    
-        <div className='rowGridContainer'>
+        <div onClick={handleClick} className='rowGridContainer'>
             <div>
                 <h2 className='projectsTitles'>{projectName}</h2>
                 <div className='projectImageContainers'>
