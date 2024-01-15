@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.6f105b75.css",
+    "main.js": "/portfolio/static/js/main.782665f9.js",
+    "static/js/415.7fa022e4.chunk.js": "/portfolio/static/js/415.7fa022e4.chunk.js",
+    "static/js/787.c20ea551.chunk.js": "/portfolio/static/js/787.c20ea551.chunk.js",
+    "static/media/projectPic.jpg": "/portfolio/static/media/projectPic.6cdb10857eb4d8bc2e9c.jpg",
+    "static/media/BioPhoto.jpg": "/portfolio/static/media/BioPhoto.c273ba3dba30c5357137.jpg",
+    "static/media/calculator.png": "/portfolio/static/media/calculator.d117233a23cf5de2b306.png",
+    "static/media/postgresql-svgrepo-com.svg": "/portfolio/static/media/postgresql-svgrepo-com.2f7e1611ba04d69bca606236fabcf492.svg",
+    "static/media/postman-icon-svgrepo-com.svg": "/portfolio/static/media/postman-icon-svgrepo-com.4ed071fdefd34be21378ce2f9fe44483.svg",
+    "static/media/reactjs-svgrepo-com.svg": "/portfolio/static/media/reactjs-svgrepo-com.ac3f46623d77c50a35912fca981e87d4.svg",
+    "static/media/c-sharp-svgrepo-com.svg": "/portfolio/static/media/c-sharp-svgrepo-com.53ccec7885ab925341335f8d0197c2b0.svg",
+    "static/media/nodejs-icon-logo-svgrepo-com.svg": "/portfolio/static/media/nodejs-icon-logo-svgrepo-com.6e28812c63d61a771c8b189f9a059d9b.svg",
+    "static/media/sql-database-generic.svg": "/portfolio/static/media/sql-database-generic.4c14d4854fac12038a9af9b7db9b3401.svg",
+    "static/media/mongodb-svgrepo-com.svg": "/portfolio/static/media/mongodb-svgrepo-com.c4ebea9a7fb7bd519318f3b657b62697.svg",
+    "static/media/github-142-svgrepo-com.svg": "/portfolio/static/media/github-142-svgrepo-com.ea30d31abe0008f1773ce78cb5310bed.svg",
+    "static/media/redux-logo-svgrepo-com.svg": "/portfolio/static/media/redux-logo-svgrepo-com.41fcda98723e44534204c890db13e469.svg",
+    "static/media/scss-svgrepo-com.svg": "/portfolio/static/media/scss-svgrepo-com.b6f1535e65f275abff2133744f550f9a.svg",
+    "static/media/javascript-logo-svgrepo-com.svg": "/portfolio/static/media/javascript-logo-svgrepo-com.2405182c4d21fa813516fd728f79594e.svg",
+    "static/media/firebase-svgrepo-com.svg": "/portfolio/static/media/firebase-svgrepo-com.5a0c3db6fe0c1a96a60a972d6b8ea648.svg",
+    "static/media/express-svgrepo-com.svg": "/portfolio/static/media/express-svgrepo-com.991fe4a8383ad0693a6115b4c8e87de1.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/css-3-svgrepo-com.svg": "/portfolio/static/media/css-3-svgrepo-com.697a41a4f18afd07209094989b10fe18.svg",
+    "static/media/html-5-svgrepo-com.svg": "/portfolio/static/media/html-5-svgrepo-com.5e479505e7d27c46bc715142c17c3f4a.svg",
+    "main.6f105b75.css.map": "/portfolio/static/css/main.6f105b75.css.map",
+    "main.782665f9.js.map": "/portfolio/static/js/main.782665f9.js.map",
+    "415.7fa022e4.chunk.js.map": "/portfolio/static/js/415.7fa022e4.chunk.js.map",
+    "787.c20ea551.chunk.js.map": "/portfolio/static/js/787.c20ea551.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f105b75.css",
+    "static/js/main.782665f9.js"
+  ]
+}

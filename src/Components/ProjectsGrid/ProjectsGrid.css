@@ -1,0 +1,19 @@
+.projectsContainer{
+    background-color: #05161a;
+    color: white; 
+    padding-bottom: 20px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 350px);
+    gap: 2%;
+    padding-top: 50px;
+    justify-content: center;
+    
+    @media(pointer: coarse){
+        grid-template-columns: 250px;
+    }
+}
+
+.projectGridTitle{
+    margin-left: 10%;
+    text-decoration: underline;
+}

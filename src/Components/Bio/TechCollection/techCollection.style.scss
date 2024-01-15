@@ -1,0 +1,13 @@
+.techCollection_container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(20px, 60px));
+    gap: 10%;
+    width: 80%;
+    margin-bottom: 10%;
+
+    .tech_container{
+        text-align: center;
+        object-fit: contain;
+        aspect-ratio: 4/3;
+    }
+}
