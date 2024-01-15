@@ -1,7 +1,7 @@
 
 
 import { Component } from 'react';
-import './techCollection.style.css'
+import './techCollection.style.scss'
 
 const TechCollection = ({className, techMastered}) => {
 
@@ -11,12 +11,10 @@ const TechCollection = ({className, techMastered}) => {
     <div className={`techCollection_container ${className}`}>
       {
         techs.map((tech, index) => {
-
           const TechComponent = techMastered[tech];
-
           return(
             <div key={index} className="tech_container"> 
-              <TechComponent/>
+              <TechComponent className="tech_logo"/>
               {tech}
             </div>
           )

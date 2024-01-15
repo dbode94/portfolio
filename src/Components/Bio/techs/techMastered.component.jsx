@@ -1,7 +1,7 @@
 import {ReactComponent as CSharp} from '../../../assets/c-sharp-svgrepo-com.svg';
 import {ReactComponent as CSS3} from '../../../assets/css-3-svgrepo-com.svg';
 import {ReactComponent as HTML5} from '../../../assets/html-5-svgrepo-com.svg';
-import {ReactComponent as JavaScript} from '../../../assets/javascript-svgrepo-com.svg';
+import {ReactComponent as JavaScript} from '../../../assets/javascript-logo-svgrepo-com.svg'
 import {ReactComponent as PostgreSQL} from '../../../assets/postgresql-svgrepo-com.svg';
 import {ReactComponent as Git} from '../../../assets/github-142-svgrepo-com.svg';
 import {ReactComponent as NodeJS} from '../../../assets//nodejs-icon-logo-svgrepo-com.svg';

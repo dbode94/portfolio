@@ -1,6 +1,0 @@
-.techCollection_container{
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(20px, 60px));
-    gap: 5%;
-    width: 80%;
-}
