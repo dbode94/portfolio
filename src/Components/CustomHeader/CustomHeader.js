@@ -83,7 +83,7 @@ const CustomHeader=() => {
                     <span>I'm</span>
                     <span className='whiteText '> Dennis Bode</span>
                 </h1>
-                <p className='whiteText headerText'>The developer you've been looking for 😀</p>      
+                <p className='whiteText headerText'>The developer you've been looking for 😎</p>      
             </div>  
         </div> 
     );

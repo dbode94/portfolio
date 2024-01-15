@@ -1,5 +1,5 @@
 import TechCollection from "./TechCollection/techCollection.component";
-import { LENGUAGES_MASTERED, DATABASE_MANAGEMENT_MASTERED, OTHER_TECHS } from "./techs/techMastered.component";
+import * as TECHS from "./techs/techMastered.component";
 
 import photo from '../../assets/BioPhoto.jpg'
 
@@ -39,13 +39,13 @@ const Bio = () =>{
 
                         {/* change this into maping over an imported object */}
                         <h4>Programming Languages & Frameworks</h4>
-                        <TechCollection techMastered={LENGUAGES_MASTERED}/>
+                        <TechCollection techMastered={TECHS.LENGUAGES_MASTERED}/>
                         
                         <h4>Database Management</h4>
-                        <TechCollection techMastered={DATABASE_MANAGEMENT_MASTERED}/>
+                        <TechCollection techMastered={TECHS.DATABASE_MANAGEMENT_MASTERED}/>
 
                         <h4>Others</h4>
-                        <TechCollection techMastered={OTHER_TECHS}/>
+                        <TechCollection techMastered={TECHS.OTHER_TECHS}/>
 
                     </div>
 

@@ -16,14 +16,16 @@ const ProjectsGrid = () =>{
                 projectPic = {calculatorPic}
                 projectName = {'Web Calculator'}
                 projectDescription={'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, autem laudantium. Quisquam voluptate nobis expedita. Recusandae ullam aspernatur, cumque veritatis laudantium, esse blanditiis quibusdam nesciunt molestiae distinctio, sapiente culpa vero?'}
-                techsUsed={['React','HTML5','CSS','NodeJS']}
+                techsUsed={['ReactJS','HTML5','CSS3','NodeJS']}
+                url={'https://dbode94.github.io/calculator'}
             />
 
             <ProjectCard
                 projectPic = {projectPic}
-                projectName = {'Prject #2'}
+                projectName = {'Clothing Store'}
                 projectDescription={'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, autem laudantium. Quisquam voluptate nobis expedita. Recusandae ullam aspernatur, cumque veritatis laudantium, esse blanditiis quibusdam nesciunt molestiae distinctio, sapiente culpa vero?'}
-                techsUsed={['C#']}
+                techsUsed={['HTML5','Sass','JavaScript','ReactJs','Redux','FireBase']}
+                url={'https://polite-rabanadas-bf5060.netlify.app'}
             />
 
             <ProjectCard

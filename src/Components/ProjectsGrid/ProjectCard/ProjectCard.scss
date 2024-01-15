@@ -1,4 +1,6 @@
 .rowGridContainer{
+    text-decoration: none;
+    color: white;
     background-color: #072e33;
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(240px,1fr));
@@ -79,9 +81,6 @@
         }
         
     }
-
-
-    
     
 }
 
