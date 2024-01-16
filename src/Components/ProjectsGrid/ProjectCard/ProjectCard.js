@@ -16,7 +16,7 @@ const ProjectCard = ({projectPic, projectName, projectDescription, techsUsed, ur
     console.log(lenguageUsed)
     
     return(    
-        <a href={url} onClick={handleClick} className='rowGridContainer'>
+        <div className='rowGridContainer'>
             <div>
                 <h2 className='projectsTitles'>{projectName}</h2>
                 <div className='projectImageContainers'>
@@ -27,14 +27,18 @@ const ProjectCard = ({projectPic, projectName, projectDescription, techsUsed, ur
             <div className='descriptionContainer'>
                 <p className='descriptions'>{projectDescription}</p>
 
+
                 <ul className='techs'>
                     {
                         
                     }
                 </ul>
+                
+                <a href={url} onClick={handleClick}>Take a peak!</a>
+                
             </div>
 
-        </a >
+        </div >
     );
 }
 
